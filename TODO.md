@@ -1,0 +1,1 @@
+- [ ] Renombrar componente Alert en erros/alert (se quedo pegado con miniscula)
